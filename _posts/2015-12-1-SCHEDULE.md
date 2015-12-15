@@ -16,8 +16,8 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    |(SparkStreaming) 2. Architecture and Components of Spark and Spark Streaming |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part3/study02/Spark_Streaming_02.ipynb)|
 |   |    |(네트워크) 6. Evolving Networks  |김무성||
 | 2 |12/12|(SparkGraph) 2: Building and Exploring Graphs |박세진|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part3/study02/SparkGraphx_02_sejin.ipynb)|
-|   |    |  |||
-|   |    |(네트워크) 7. Degree Correlations  |||
+|   |    | ZeroMQ |박재도||
+|   |    |(네트워크) 7. Degree Correlations  |김무성||
 | 3 |12/19|(SparkGraph) 3: Graph Analysis and Visualization |김무성| |
 |   |    |(SparkStreaming) 3.Processing Distributed Log Files in Real Time |||
 |   |    |(네트워크) 8. Network Robustenss |||
