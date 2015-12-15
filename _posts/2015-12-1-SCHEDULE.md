@@ -12,8 +12,8 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 
 | 회차   | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | -----  |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
-| 1 |12/5 |(SparkGraph) 1: Getting Started with Spark and GraphX |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part3/study02/SparkGraphx_01.ipynb)|
-|   |    |(SparkStreaming) 2. Architecture and Components of Spark and Spark Streaming |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part3/study02/Spark_Streaming_02.ipynb)|
+| 1 |12/5 |(SparkGraph) 1: Getting Started with Spark and GraphX |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part3/study01/SparkGraphx_01.ipynb)|
+|   |    |(SparkStreaming) 2. Architecture and Components of Spark and Spark Streaming |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part3/study01/Spark_Streaming_02.ipynb)|
 |   |    |(네트워크) 6. Evolving Networks  |김무성||
 | 2 |12/12|(SparkGraph) 2: Building and Exploring Graphs |박세진|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part3/study02/SparkGraphx_02_sejin.ipynb)|
 |   |    | ZeroMQ |박재도||
