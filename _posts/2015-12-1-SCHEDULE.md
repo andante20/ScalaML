@@ -61,9 +61,9 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    |(스칼라학교) 5. 컬렉션(계속), specs로 테스트하기 |김명철|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study05/scala_basic/ch5_Collection2%2C%20Specs.ipynb)|
 |   |    |(함수형) 5. 엄격성과 나태성 |최경준|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study05/func/Chapter5%20-%20Strictness%20and%20Laziness.ipynb)|
 |   |    |(스칼라ML) 3. Data Preprocessing (1) |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study05/scalaml/03_Data_Preprocessing.ipynb)|
-| 6 |7/18|(함수형) 6. 순수 함수적 상태 |지용기| |
-|   |    |(SparkML) 3. Obtaining, Processing, and Preparing Data with Spark |권갑진||
-|   |    |(함수형) 연습문제 풀이 |지용기||
+| 6 |7/18|(함수형) 6. 순수 함수적 상태 |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study06/func/06%EC%9E%A5_%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98%EC%A0%81%EC%83%81%ED%83%9C.ipynb) |
+|   |    |(SparkML) 3. Obtaining, Processing, and Preparing Data with Spark |권갑진|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study06/sparkml/Machine%20Learning%20with%20Spark%2C%20Chapter%203.%20MovieLens%20100k%20Analysis..ipynb)|
+|   |    |(함수형) 연습문제 풀이 |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study06/func/06%EC%9E%A5_%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98%EC%A0%81%EC%83%81%ED%83%9C.ipynb#연습문제-6.1)|
 |   |    |(스칼라ML) 3. Data Preprocessing (2) |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study05/scalaml/03_Data_Preprocessing.ipynb)|
 | 7 |7/25|(스칼라학교) 6. 스칼라의 동시성, Java + Scala |김덕태| |
 |   |    |(스칼라ML) 4. Unsupervised Learning |송근창||
