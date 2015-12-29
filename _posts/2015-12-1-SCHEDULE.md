@@ -68,8 +68,8 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 | 7 |7/25|(스칼라학교) 6. 스칼라의 동시성, Java + Scala |김덕태| |
 |   |    |(스칼라ML) 4. Unsupervised Learning |송근창|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study07/scalaml/ScalaForMachineLearningCh04.UnsupervisedLearning.ipynb)|
 |   |    |(스칼라ML) 3. Data Preprocessing (3) |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study05/scalaml/03_Data_Preprocessing.ipynb)|
-| 8 |8/1 |(함수형) 7. 순수 함수적 병렬성 |지용기| |
-|   |    |(함수형) 연습문제 |지용기||
+| 8 |8/1 |(함수형) 7. 순수 함수적 병렬성 |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study08/func/07%EC%9E%A5_%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98%EC%A0%81%EB%B3%91%EB%A0%AC%EC%84%B1.ipynb)|
+|   |    |(함수형) 연습문제 |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study08/func/07%EC%9E%A5_%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98%EC%A0%81%EB%B3%91%EB%A0%AC%EC%84%B1.ipynb#연습문제-7.1)|
 |   |    |(SparkML) 4. Building a Recommendation Engine with Spark |임상배||
 | 9 |8/8 |(함수형) 8. 속성 기반 검사 |송근창|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study09/func/FunctionalProgrammingInScalaCh8.Property-based%20testing.ipynb) |
 |   |    |(스칼라ML) 5. Naïve Bayes Classifier |이상열|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study09/scala_ml/5.NaiveBayesClassifiers.ipynb)|
