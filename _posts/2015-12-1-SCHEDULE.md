@@ -104,8 +104,8 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    | (스칼라ML) 6. Regression and Regularization (2)  |권갑진|[slide](https://drive.google.com/file/d/0Bw594TdiBdAUREk0YVBTaUlFYW8/view)|
 |   |    | (네트워크) 3. Random Networks (1) |심상진||
 | 5 |10/17|(함수형) 12. 적용성 함수자와 순회 가능 함수자 (4) |김덕태| |
-|   |    |(스칼라ML) 6. Regression and Regularization (3) |권갑진||
-| 6 |10/24|(함수형) 14. 지역 효과와 변이 가능 상태  |송근창| |
+|   |    |(스칼라ML) 6. Regression and Regularization (3) |권갑진|[slide](https://drive.google.com/file/d/0Bw594TdiBdAUREk0YVBTaUlFYW8/view)|
+| 6 |10/24|(함수형) 14. 지역 효과와 변이 가능 상태  |송근창|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study06/func/ch14%20%EC%A7%80%EC%97%AD%20%ED%9A%A8%EA%B3%BC%EC%99%80%20%EB%B3%80%EC%9D%B4%20%EA%B0%80%EB%8A%A5%20%EC%83%81%ED%83%9C.ipynb) |
 |   |    |(SparkML) 8. Dimensionality Reduction with Spark |지용기||
 |   |    |(네트워크) 3. Random Networks (2) |심상진||
 | 7 |10/31|(함수형) 12. 적용성 함수자와 순회 가능 함수자 (4): 모나드로~~ |김덕태| |
