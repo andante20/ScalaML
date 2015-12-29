@@ -66,7 +66,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    |(함수형) 연습문제 풀이 |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study06/func/06%EC%9E%A5_%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98%EC%A0%81%EC%83%81%ED%83%9C.ipynb#연습문제-6.1)|
 |   |    |(스칼라ML) 3. Data Preprocessing (2) |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study05/scalaml/03_Data_Preprocessing.ipynb)|
 | 7 |7/25|(스칼라학교) 6. 스칼라의 동시성, Java + Scala |김덕태| |
-|   |    |(스칼라ML) 4. Unsupervised Learning |송근창||
+|   |    |(스칼라ML) 4. Unsupervised Learning |송근창|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study07/scalaml/ScalaForMachineLearningCh04.UnsupervisedLearning.ipynb)|
 |   |    |(스칼라ML) 3. Data Preprocessing (3) |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study05/scalaml/03_Data_Preprocessing.ipynb)|
 | 8 |8/1 |(함수형) 7. 순수 함수적 병렬성 |지용기| |
 |   |    |(함수형) 연습문제 |지용기||
