@@ -98,9 +98,9 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    |(네트워크) 2. Graph Theory (1) |고희연||
 | 3 |10/3|(함수형) 13. 외부 효과와 입출력 (1) |하헌철|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study03/func/IO-Monad.ipynb) |
 |   |    |(네트워크) 2. Graph Theory (2) |고희연||
-|   |    |(특강) Humble introduction to category theory in Haskell |이종수||
+|   |    |(특강) Humble introduction to category theory in Haskell |이종수|[slide](https://drive.google.com/file/d/0Bw594TdiBdAUc2RiNW5YbVhZdzQ/view)|
 | 4 |10/10 |(함수형) 12. 적용성 함수자와 순회 가능 함수자 (3) |김덕태| |
-|   |    | (함수형) 13. 외부 효과와 입출력 (2) |하헌철||
+|   |    | (함수형) 13. 외부 효과와 입출력 (2) |하헌철|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study03/func/IO-Monad.ipynb)|
 |   |    | (스칼라ML) 6. Regression and Regularization (2)  |권갑진|[slide](https://drive.google.com/file/d/0Bw594TdiBdAUREk0YVBTaUlFYW8/view)|
 |   |    | (네트워크) 3. Random Networks (1) |심상진||
 | 5 |10/17|(함수형) 12. 적용성 함수자와 순회 가능 함수자 (4) |김덕태| |
