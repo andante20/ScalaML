@@ -56,7 +56,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    |(스칼라ML) 2. Hello World! |최정원|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study03/ScalaML/Ch2.%20H...hello%20World.ipynb)|
 |   |    |(함수형 연습문제) |최경준|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study03/ex/Third%20Week%20-%20Functional%20Programming%20Exercise.ipynb)|
 | 4 |7/4 |(함수형) 4. 예외를 이용하지 않은 오류 처리 |오재훈|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study04/func/Functional%20Chapter%204%20-%20Error%20Handling%20without%20Exception.ipynb) |
-|   |    |(SparkML) 2. Designing a Machine Learning System |임상배||
+|   |    |(SparkML) 2. Designing a Machine Learning System |임상배|[slide](https://drive.google.com/file/d/0Bw594TdiBdAUYkRmQ2JiQWJNclk/view)|
 | 5 |7/11|(스칼라학교) 4. SBT |조수관|[slide](https://drive.google.com/file/d/0Bw594TdiBdAUMWpGcC1iTVNoVkE/view) |
 |   |    |(스칼라학교) 5. 컬렉션(계속), specs로 테스트하기 |김명철|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study05/scala_basic/ch5_Collection2%2C%20Specs.ipynb)|
 |   |    |(함수형) 5. 엄격성과 나태성 |최경준|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study05/func/Chapter5%20-%20Strictness%20and%20Laziness.ipynb)|
@@ -70,7 +70,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    |(스칼라ML) 3. Data Preprocessing (3) |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study05/scalaml/03_Data_Preprocessing.ipynb)|
 | 8 |8/1 |(함수형) 7. 순수 함수적 병렬성 |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study08/func/07%EC%9E%A5_%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98%EC%A0%81%EB%B3%91%EB%A0%AC%EC%84%B1.ipynb)|
 |   |    |(함수형) 연습문제 |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study08/func/07%EC%9E%A5_%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98%EC%A0%81%EB%B3%91%EB%A0%AC%EC%84%B1.ipynb#연습문제-7.1)|
-|   |    |(SparkML) 4. Building a Recommendation Engine with Spark |임상배||
+|   |    |(SparkML) 4. Building a Recommendation Engine with Spark |임상배|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study08/sparkml/Machine-Learning-with-Sparkch-04.ipynb)|
 | 9 |8/8 |(함수형) 8. 속성 기반 검사 |송근창|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study09/func/FunctionalProgrammingInScalaCh8.Property-based%20testing.ipynb) |
 |   |    |(스칼라ML) 5. Naïve Bayes Classifier |이상열|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study09/scala_ml/5.NaiveBayesClassifiers.ipynb)|
 | 10|8/22|(SparkML) 5. Building a Classification Model with Spark |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study10/sparkml/05.Building%20a%20Classification%20Model%20with%20Spark.ipynb)|
