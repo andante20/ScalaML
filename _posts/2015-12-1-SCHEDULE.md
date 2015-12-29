@@ -96,7 +96,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 | 2 |9/19|(함수형) 12. 적용성 함수자와 순회 가능 함수자 (2) |김덕태||
 |   |    |(SparkML) 7. Building a Clustering Model with Spark  |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study02/spark07/07_Building_a_Clustering_Model_with_Spark.ipynb)|
 |   |    |(네트워크) 2. Graph Theory (1) |고희연||
-| 3 |10/3|(함수형) 13. 외부 효과와 입출력 (1) |하헌철| |
+| 3 |10/3|(함수형) 13. 외부 효과와 입출력 (1) |하헌철|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study03/func/IO-Monad.ipynb) |
 |   |    |(네트워크) 2. Graph Theory (2) |고희연||
 |   |    |(특강) Humble introduction to category theory in Haskell |이종수||
 | 4 |10/10 |(함수형) 12. 적용성 함수자와 순회 가능 함수자 (3) |김덕태| |
