@@ -8,28 +8,33 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 
 ## PART III 
 
-* 2015년 12월 5일 ~ 2016년 1월 23일
+* 2015년 12월 5일 ~ 
+* 네트워크 이론은 발표자료 링크가 따로 없다면, 바라바시의 자료를 사용함
+  -  http://barabasi.com/networksciencebook/
 
 | 회차   | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | -----  |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
 | 1 |12/5 |(SparkGraph) 1: Getting Started with Spark and GraphX |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part3/study01/SparkGraphx_01.ipynb)|
 |   |    |(SparkStreaming) 2. Architecture and Components of Spark and Spark Streaming |지용기|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part3/study01/Spark_Streaming_02.ipynb)|
-|   |    |(네트워크) 6. Evolving Networks  |김무성||
+|   |    |(네트워크) 6. Evolving Networks (1)  |김무성||
 | 2 |12/12|(SparkGraph) 2: Building and Exploring Graphs |박세진|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part3/study02/SparkGraphx_02_sejin.ipynb)|
-|   |    | ZeroMQ |박재도||
-|   |    |(네트워크) 7. Degree Correlations  |김무성||
-| 3 |12/19|(SparkGraph) 3: Graph Analysis and Visualization |김무성| |
-|   |    |(SparkStreaming) 3.Processing Distributed Log Files in Real Time |||
-|   |    |(네트워크) 8. Network Robustenss |||
-| 4 |1/9 |(SparkGraph) Chapter 4: Transforming and Shaping Up Graphs to Your Needs || |
-|   |    |(SparkStreaming) 4. Applying Transformations to Streaming Data |||
-|   |    |(네트워크) 9. Communities  |||
+|   |    | (특강)ZeroMQ |박재도||
+|   |    |(네트워크) 6. Evolving Networks (2)  |김무성||
+| 3 |12/19|(SparkGraph) 3: Graph Analysis and Visualization (1) |김무성| |
+|   |    |(SparkStreaming) 3.Processing Distributed Log Files in Real Time |박재도||
+|   |    |(특강) partition function  |고희연||
+| 4 |1/9 |(SparkGraph) 3: Graph Analysis and Visualization (2) |김무성| |
+|   |    |(SparkGraph) Chapter 4: Transforming and Shaping Up Graphs to Your Needs |이창훈| |
+|   |    |(네트워크) 7. Degree Correlations  |고희연||
 | 5 |1/16|(SparkGraph) 5: Creating Custom Graph Aggregation Operators || |
-|   |    |(SparkStreaming)(SparkStreaming) 5. Persisting Log Analysis Data |||
-|   |    |(네트워크) 10. Spreading Phenomena  |||
+|   |    |(SparkStreaming) 4. Applying Transformations to Streaming Data |권준호||
+|   |    |(네트워크) 8. Network Robustenss |김무성||
 | 6 |1/23|(SparkGraph) 6: Iterative Graph-Parallel Processing with Pregel  || |
-|   |    |(SparkStreaming) 6. Integration with Adbanced Spark Libraries, 7. Deploying in Production |||
-|   |    |(SparkGraph)  7: Learning Graph Structures |||
+|   |    |(SparkStreaming) 5. Persisting Log Analysis Data |||
+|   |    |(네트워크) 9. Communities  |||
+| 7 |1/30|(SparkGraph)  7: Learning Graph Structures  || |
+|   |    |(SparkStreaming) 6. Integration with Adbanced Spark Libraries |||
+|   |    |(네트워크) 10. Spreading Phenomena  |김무성||
 
 
 -------------
