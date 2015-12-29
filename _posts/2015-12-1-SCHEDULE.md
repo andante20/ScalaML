@@ -89,26 +89,26 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 
 | 회차   | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | -----  |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
-| 1 |9/12 |(함수형) 12. 적용성 함수자와 순회 가능 함수자 (1) |김덕태||
+| 1 |9/12 |(함수형) 12. 적용성 함수자와 순회 가능 함수자 (1) |김덕태|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study01/func/ch12-%EC%A0%81%EC%9A%A9%EC%84%B1-%ED%95%A8%EC%88%98%EC%9E%90%EC%99%80-%EC%88%9C%ED%9A%8C-%EA%B0%80%EB%8A%A5-%ED%95%A8%EC%88%98%EC%9E%90.ipynb)|
 |   |    |(스칼라ML) 6. Regression and Regularization (1) |권갑진|[slide](https://drive.google.com/file/d/0Bw594TdiBdAUREk0YVBTaUlFYW8/view)|
 |   |    |(네트워크) 1. Introduction |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study01/network/01_Introduction.ipynb)|
 |   |    |(놀러온 손님) 해석학 특강 |고희연||
-| 2 |9/19|(함수형) 12. 적용성 함수자와 순회 가능 함수자 (2) |김덕태||
+| 2 |9/19|(함수형) 12. 적용성 함수자와 순회 가능 함수자 (2) |김덕태|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study01/func/ch12-%EC%A0%81%EC%9A%A9%EC%84%B1-%ED%95%A8%EC%88%98%EC%9E%90%EC%99%80-%EC%88%9C%ED%9A%8C-%EA%B0%80%EB%8A%A5-%ED%95%A8%EC%88%98%EC%9E%90.ipynb)|
 |   |    |(SparkML) 7. Building a Clustering Model with Spark  |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study02/spark07/07_Building_a_Clustering_Model_with_Spark.ipynb)|
 |   |    |(네트워크) 2. Graph Theory (1) |고희연||
 | 3 |10/3|(함수형) 13. 외부 효과와 입출력 (1) |하헌철|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study03/func/IO-Monad.ipynb) |
 |   |    |(네트워크) 2. Graph Theory (2) |고희연||
 |   |    |(특강) Humble introduction to category theory in Haskell |이종수|[slide](https://drive.google.com/file/d/0Bw594TdiBdAUc2RiNW5YbVhZdzQ/view)|
-| 4 |10/10 |(함수형) 12. 적용성 함수자와 순회 가능 함수자 (3) |김덕태| |
+| 4 |10/10 |(함수형) 12. 적용성 함수자와 순회 가능 함수자 (3) |김덕태|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study01/func/ch12-%EC%A0%81%EC%9A%A9%EC%84%B1-%ED%95%A8%EC%88%98%EC%9E%90%EC%99%80-%EC%88%9C%ED%9A%8C-%EA%B0%80%EB%8A%A5-%ED%95%A8%EC%88%98%EC%9E%90.ipynb) |
 |   |    | (함수형) 13. 외부 효과와 입출력 (2) |하헌철|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study03/func/IO-Monad.ipynb)|
 |   |    | (스칼라ML) 6. Regression and Regularization (2)  |권갑진|[slide](https://drive.google.com/file/d/0Bw594TdiBdAUREk0YVBTaUlFYW8/view)|
 |   |    | (네트워크) 3. Random Networks (1) |심상진||
-| 5 |10/17|(함수형) 12. 적용성 함수자와 순회 가능 함수자 (4) |김덕태| |
+| 5 |10/17|(함수형) 12. 적용성 함수자와 순회 가능 함수자 (4) |김덕태|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study01/func/ch12-%EC%A0%81%EC%9A%A9%EC%84%B1-%ED%95%A8%EC%88%98%EC%9E%90%EC%99%80-%EC%88%9C%ED%9A%8C-%EA%B0%80%EB%8A%A5-%ED%95%A8%EC%88%98%EC%9E%90.ipynb) |
 |   |    |(스칼라ML) 6. Regression and Regularization (3) |권갑진|[slide](https://drive.google.com/file/d/0Bw594TdiBdAUREk0YVBTaUlFYW8/view)|
 | 6 |10/24|(함수형) 14. 지역 효과와 변이 가능 상태  |송근창|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study06/func/ch14%20%EC%A7%80%EC%97%AD%20%ED%9A%A8%EA%B3%BC%EC%99%80%20%EB%B3%80%EC%9D%B4%20%EA%B0%80%EB%8A%A5%20%EC%83%81%ED%83%9C.ipynb) |
 |   |    |(SparkML) 8. Dimensionality Reduction with Spark |지용기||
 |   |    |(네트워크) 3. Random Networks (2) |심상진||
-| 7 |10/31|(함수형) 12. 적용성 함수자와 순회 가능 함수자 (4): 모나드로~~ |김덕태| |
+| 7 |10/31|(함수형) 12. 적용성 함수자와 순회 가능 함수자 (4): 모나드로~~ |김덕태|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study01/func/ch12-%EC%A0%81%EC%9A%A9%EC%84%B1-%ED%95%A8%EC%88%98%EC%9E%90%EC%99%80-%EC%88%9C%ED%9A%8C-%EA%B0%80%EB%8A%A5-%ED%95%A8%EC%88%98%EC%9E%90.ipynb) |
 | 8 |11/7 |(함수형) 15. 스트림 처리와 점진적 입출력 |하헌철| |
 |   |    | (스칼라ML) 7. Sequential Data Models (1) |김무성||
 |   |    | (네트워크) 4. The Scale-Free Property (1) |송영숙||
