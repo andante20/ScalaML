@@ -109,7 +109,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    |(SparkML) 8. Dimensionality Reduction with Spark |지용기||
 |   |    |(네트워크) 3. Random Networks (2) |심상진||
 | 7 |10/31|(함수형) 12. 적용성 함수자와 순회 가능 함수자 (4): 모나드로~~ |김덕태|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study01/func/ch12-%EC%A0%81%EC%9A%A9%EC%84%B1-%ED%95%A8%EC%88%98%EC%9E%90%EC%99%80-%EC%88%9C%ED%9A%8C-%EA%B0%80%EB%8A%A5-%ED%95%A8%EC%88%98%EC%9E%90.ipynb) |
-| 8 |11/7 |(함수형) 15. 스트림 처리와 점진적 입출력 |하헌철| |
+| 8 |11/7 |(함수형) 15. 스트림 처리와 점진적 입출력 |하헌철|[code](http://nbviewer.ipython.org/github/psygrammer/ScalaML/tree/master/part2/study08/func/) |
 |   |    | (스칼라ML) 7. Sequential Data Models (1) |김무성||
 |   |    | (네트워크) 4. The Scale-Free Property (1) |송영숙||
 | 9 |11/14 |(스칼라ML) 7. Sequential Data Models (2) |김무성| |
@@ -118,5 +118,5 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    |(네트워크) 4. The Scale-Free Property (2)  |송영숙||
 |   |    |(네트워크) 5. The Barabási-Albert Model (1)  |송영숙||
 | 11|11/28|(스칼라ML) 8. Kernel Models and Support Vector Machines (2) |박경원| |
-|   |    |(SparkML) 9. Advanced Text Processing with Spark  |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study08/sparkml09/9_Advanced_Text_Processing_with_Spark.ipynb)|
+|   |    |(SparkML) 9. Advanced Text Processing with Spark  |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part2/study11/sparkml09/9_Advanced_Text_Processing_with_Spark.ipynb)|
 |   |    |(네트워크) 5. The Barabási-Albert Model (2)  |송영숙||
