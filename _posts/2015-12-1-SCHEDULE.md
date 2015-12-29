@@ -45,8 +45,8 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 | 1 |7/7 |(스칼라학교) 1. 기초, 기초(계속) |이상열|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/scalabasic/scalaschool_basic.ipynb)|
 |   |    |(함수형) 1. 함수형 프로그래밍이란 무엇인가? |양수한|[slide](), [note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/func/What%20is%20Functional%20Programming.ipynb)|
 |   |    |(스칼라ML) 1. Getting Started |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/scalaml/01_Getting_Started.ipynb)|
-|   |    |(스칼라학교 연습문제) |이상열||
-|   |    |(함수형 연습문제) |최경준||
+|   |    |(스칼라학교 연습문제) |이상열|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/scalabasic/scalaschool_basic.ipynb#스칼라-연습문제-:-파트1-1회차-발표자-이상열)|
+|   |    |(함수형 연습문제) |최경준|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study01/ex/First%20Week%20-%20Functional%20Programming%20Exercise.ipynb)|
 | 2 |6/20|(스칼라학교) 2. 컬렉션, 패턴 매치와 함수 합성 |오재훈|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study02/scalabasic/scala_collection.ipynb)|
 |   |    |(함수형) 2. 스칼라로 함수형 프로그래밍 시작하기 |김명철|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study02/func/ch2.Functional_programming_start.ipynb)|
 |   |    |(SparkML) 1. Getting Up and Running with Spark |서호석||
