@@ -52,7 +52,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 |   |    |(SparkML) 1. Getting Up and Running with Spark |서호석||
 |   |    |(함수형 연습문제) |최경준||
 | 3 |6/27|(스칼라학교) 3. 타입과 다형성의 기초, 타입(고급 주제) |송근창|[note1](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study03/scala_basic/ScalaSchoolTypeAndPolymorphismBasics.ipynb), [note2](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study03/scala_basic/ScalaSchoolAdvancedTypes.ipynb) |
-|   |    |(함수형) 3. 함수적 자료구조 |하헌철||
+|   |    |(함수형) 3. 함수적 자료구조 |하헌철|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study03/func/Ch3_Functional%20Data%20Structure.ipynb)|
 |   |    |(스칼라ML) 2. Hello World! |최정원|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study03/ScalaML/Ch2.%20H...hello%20World.ipynb)|
 |   |    |(함수형 연습문제) |최경준|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study03/ex/Third%20Week%20-%20Functional%20Programming%20Exercise.ipynb)|
 | 4 |7/4 |(함수형) 4. 예외를 이용하지 않은 오류 처리 |오재훈|[note](http://nbviewer.ipython.org/github/psygrammer/ScalaML/blob/master/part1/study04/func/Functional%20Chapter%204%20-%20Error%20Handling%20without%20Exception.ipynb) |
